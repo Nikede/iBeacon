@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iBeacon</string>
+    <string name="no_devices">Devices not found</string>
+    <string name="all">All</string>
+    <string name="search">Search</string>
+    <string name="beacons">Beacons</string>
+    <string name="mac">Mac</string>
+    <string name="rssi">rssi</string>
+    <string name="uuid">Uuid</string>
+    <string name="major">Major</string>
+    <string name="minor">Minor</string>
+    <string name="distance">Distance</string>
+    <string name="functionality_limited">Functionality limited</string>
+    <string name="location_access_not_granted"><![CDATA[Since location access has not been granted, this app will not be able to discover beacons.  Please go to Settings -> Applications -> Permissions and grant location access to this app.]]></string>
+</resources>
